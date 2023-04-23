@@ -1,4 +1,3 @@
-// A simple web server using Java's built-in HttpServer
 import java.io.IOException;
 import java.net.URI;
 
